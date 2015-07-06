@@ -1,6 +1,6 @@
 {
-  "name": "tabris-js-sample3",
-  "description": "Sample3",
+  "name": "tabris-js-sample4",
+  "description": "Sample4",
   "main": "app.js",
   "dependencies": {
     "tabris": "latest"
